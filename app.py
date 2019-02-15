@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-#comit from github0
-#comit from github1
-=======
 
-#comit from github11
->>>>>>> 665d9947f8e2136b0f6d6e45576462cd1fd8e6bf
+#commit github1
 from flask import Flask, render_template
 import random
 
